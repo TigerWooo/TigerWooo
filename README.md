@@ -3,6 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerWooo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Static Badge](https://img.shields.io/badge/Python-blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Yellow)
+![Static Badge](https://img.shields.io/badge/C-red)
 
 <!--
 **TigerWooo/TigerWooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
