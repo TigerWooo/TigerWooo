@@ -12,7 +12,7 @@ Currently exploring simulation + DL fusion using **NVIDIA Omniverse** and **Unit
 ## 🛠 Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-blue) ![C++](https://img.shields.io/badge/C%2B%2B-yellow) ![C](https://img.shields.io/badge/C-red) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+(https://img.shields.io/badge/C%2B%2B-yellow) ![C](https://img.shields.io/badge/C-red) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 **Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)  
