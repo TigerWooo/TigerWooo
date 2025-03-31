@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Tiger%20Woo&fontSize=70)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerWooo)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerWooo)](https://github.com/anuraghazra/github-readme-stats)
+
+![Static Badge](https://img.shields.io/badge/Python-blue)
+
 <!--
 **TigerWooo/TigerWooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
