@@ -49,6 +49,10 @@ Currently exploring simulation + DL fusion using **NVIDIA Omniverse** and **Unit
 
 ---
 
+🧑‍🎓 During my undergraduate studies, I learned C++, Java, and JavaScript,  
+but currently focus on Python and C# for most of my development and research work.
+
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
