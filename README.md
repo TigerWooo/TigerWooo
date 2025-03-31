@@ -46,7 +46,6 @@ Currently exploring simulation + DL fusion using **NVIDIA Omniverse** and **Unit
 ## 📫 Contact
 
 - 📧 Email: tigerwoo@a.ut.ac.kr  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile) *(or Notion/Blog if you have)*
 
 ---
 
